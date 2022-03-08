@@ -11,3 +11,22 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.page-loader {
+  position: fixed;
+  top: 45%;
+  left: 45%;
+}
+
+.task-completed {
+  color: green;
+  text-decoration: line-through;
+}
+
+.task-pending {
+  color: red;
+}
+
+span.navbar-brand {
+  padding-left: 2em;
+}
