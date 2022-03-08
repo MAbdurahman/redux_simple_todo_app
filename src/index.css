@@ -19,12 +19,12 @@ code {
 }
 
 .task-completed {
-  color: green;
+  color: rgb(9, 104, 9);
   text-decoration: line-through;
 }
 
 .task-pending {
-  color: red;
+  color: rgb(170, 7, 7);
 }
 
 span.navbar-brand {
